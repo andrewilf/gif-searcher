@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gif-searcher/static/css/main.ca4ebf71.chunk.css",
+    "main.js": "/gif-searcher/static/js/main.0c3576ba.chunk.js",
+    "main.js.map": "/gif-searcher/static/js/main.0c3576ba.chunk.js.map",
+    "runtime-main.js": "/gif-searcher/static/js/runtime-main.c807c93f.js",
+    "runtime-main.js.map": "/gif-searcher/static/js/runtime-main.c807c93f.js.map",
+    "static/js/2.e296f447.chunk.js": "/gif-searcher/static/js/2.e296f447.chunk.js",
+    "static/js/2.e296f447.chunk.js.map": "/gif-searcher/static/js/2.e296f447.chunk.js.map",
+    "static/js/3.b4ce495a.chunk.js": "/gif-searcher/static/js/3.b4ce495a.chunk.js",
+    "static/js/3.b4ce495a.chunk.js.map": "/gif-searcher/static/js/3.b4ce495a.chunk.js.map",
+    "index.html": "/gif-searcher/index.html",
+    "static/css/main.ca4ebf71.chunk.css.map": "/gif-searcher/static/css/main.ca4ebf71.chunk.css.map",
+    "static/js/2.e296f447.chunk.js.LICENSE.txt": "/gif-searcher/static/js/2.e296f447.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gif-searcher/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c807c93f.js",
+    "static/js/2.e296f447.chunk.js",
+    "static/css/main.ca4ebf71.chunk.css",
+    "static/js/main.0c3576ba.chunk.js"
+  ]
+}
